@@ -314,7 +314,7 @@ entries:
   - link: https://developers.cloudflare.com/workers/observability/logs/#video-tutorial
     title: Workers Observability
     description: With Workers Logs, you can collect, store, filter, and analyze all logging data from your Workers directly in the Cloudflare dashboard.
-    tags: [NextJS, Workers, Pages]
+    tags: [Workers, Pages]
     languages: [TypeScript]
     # stream_id: 
     products: [Workers, Pages]
